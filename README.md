@@ -1,5 +1,7 @@
 # Umbraco Community Slack #
 
+![](http://umbracians-chat.herokuapp.com/badge.svg)
+
 ### What is it? ###
 A 24-7 room for Umbraco community members to chat. Loitering is encouraged. 
 
