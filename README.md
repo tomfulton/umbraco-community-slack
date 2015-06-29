@@ -9,7 +9,7 @@ A 24-7 room for Umbraco community members to chat. Loitering is encouraged.
 Umbraco Community Slack was created to help all Umbracians across the world stay in touch and communicate with each other, in real time. Now we can have ad-hoc conversations about Umbraco related stuff (ok...and maybe some other things) on any given day, online. 
 
 ### How do I get in? ###
-Signup by visiting [http://umbracians-chat.herokuapp.com/](http://umbracians-chat.herokuapp.com/)
+Signup by visiting [http://umbracians-chat.herokuapp.com/](http://umbracians-chat.herokuapp.com/), once signed up use [https://umbracians.slack.com/](https://umbracians.slack.com/)
 
 ## Guidelines
 
