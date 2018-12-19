@@ -13,6 +13,9 @@ Signup by visiting [http://umbracians.chat/](http://umbracians-chat.herokuapp.co
 
 ## Guidelines
 
+### Code of Conduct ###
+Please see the [Code of Conduct](https://github.com/tomfulton/umbraco-community-slack/blob/master/code-of-conduct.md)
+
 ### Creating New Channels ###
 In order to help keep Slack approachable and maintainable, we've set up just a handful of new channels.  Have an idea for a channel?  Suggest it in `#slack-community`.
 
